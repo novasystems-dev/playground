@@ -7,7 +7,7 @@
 <br />
 
 [![License](https://img.shields.io/badge/license-PolyForm-a855f7?style=flat&labelColor=0f172a&logo=open-source-initiative&logoColor=white)](LICENSE)
-[![Nova](https://img.shields.io/badge/language-Nova_0.3.0-38bdf8?style=flat&labelColor=0f172a&logo=rust&logoColor=white)](https://github.com/novasystems-dev/nova)
+[![Nova](https://img.shields.io/badge/language-Nova_0.3.0-38bdf8?style=flat&labelColor=0f172a&logo=starship&logoColor=white)](https://github.com/novasystems-dev/nova)
 [![WebAssembly](https://img.shields.io/badge/target-WebAssembly-10b981?style=flat&labelColor=0f172a&logo=webassembly&logoColor=white)](index.html)
 [![Editor](https://img.shields.io/badge/editor-Monaco-ec4899?style=flat&labelColor=0f172a&logo=visualstudiocode&logoColor=white)](index.html)
 [![Ecosystem](https://img.shields.io/badge/ecosystem-10%20repos-f59e0b?style=flat&labelColor=0f172a&logo=github&logoColor=white)](https://github.com/novasystems-dev)
