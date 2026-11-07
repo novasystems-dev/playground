@@ -1,18 +1,20 @@
-<p align="center">
-  <img src="assets/logo.svg" alt="Nova Playground Logo" width="160" />
-</p>
+<div align="center">
 
-<h1 align="center">Nova Interactive Playground</h1>
+# 🎮 Nova Interactive Playground
 
-<p align="center">
-  <b>Web-based In-Browser Live Code Sandbox & Monaco Editor for Nova</b>
-</p>
+**Web-based In-Browser Live Code Sandbox & Monaco Editor for Nova**
 
-<p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-PolyForm%20Noncommercial-blueviolet?style=for-the-badge" alt="License" /></a>
-  <a href="https://github.com/novasystems-dev/nova"><img src="https://img.shields.io/badge/Nova-Systems%20Lang-00F0FF?style=for-the-badge" alt="Nova" /></a>
-  <img src="https://img.shields.io/badge/Monaco-Editor-FF548F?style=for-the-badge" alt="Monaco" />
-</p>
+<br />
+
+[![License](https://img.shields.io/badge/license-PolyForm-a855f7?style=flat&labelColor=0f172a&logo=open-source-initiative&logoColor=white)](LICENSE)
+[![Nova](https://img.shields.io/badge/language-Nova_0.3.0-38bdf8?style=flat&labelColor=0f172a&logo=rust&logoColor=white)](https://github.com/novasystems-dev/nova)
+[![WebAssembly](https://img.shields.io/badge/target-WebAssembly-10b981?style=flat&labelColor=0f172a&logo=webassembly&logoColor=white)](index.html)
+[![Editor](https://img.shields.io/badge/editor-Monaco-ec4899?style=flat&labelColor=0f172a&logo=visualstudiocode&logoColor=white)](index.html)
+[![Ecosystem](https://img.shields.io/badge/ecosystem-10%20repos-f59e0b?style=flat&labelColor=0f172a&logo=github&logoColor=white)](https://github.com/novasystems-dev)
+
+<br />
+
+</div>
 
 ---
 
