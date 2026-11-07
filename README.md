@@ -1,20 +1,29 @@
-# Nova Playground — Live Web-Based Sandbox
+<p align="center">
+  <img src="assets/logo.svg" alt="Nova Playground Logo" width="160" />
+</p>
 
-> **Experience Deterministic Systems Programming In Your Browser**
+<h1 align="center">Nova Interactive Playground</h1>
 
-Nova Playground allows developers worldwide to test, verify, and experiment with the **Nova Systems Programming Language** directly in the browser.
+<p align="center">
+  <b>Web-based In-Browser Live Code Sandbox & Monaco Editor for Nova</b>
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-PolyForm%20Noncommercial-blueviolet?style=for-the-badge" alt="License" /></a>
+  <a href="https://github.com/novasystems-dev/nova"><img src="https://img.shields.io/badge/Nova-Systems%20Lang-00F0FF?style=for-the-badge" alt="Nova" /></a>
+  <img src="https://img.shields.io/badge/Monaco-Editor-FF548F?style=for-the-badge" alt="Monaco" />
+</p>
 
 ---
 
-## Features
+## ⚡ Live Features
 
-- **Monaco Editor Integration**: Syntax highlighting for `.nova` programs.
-- **Instant SMT Proof Feedback**: Visual indicators for verified predicates and invariant violations.
-- **Client-Side Simulation**: Interactive execution with real-time console streaming.
+- **Monaco Code Editor**: Full syntax highlighting for `.nova` source files.
+- **Wasm Compiler Simulator**: Real-time evaluation of Refinement types with Z3 SMT proofs.
+- **Example Catalogue**: Preloaded with canonical Nova programs (Perceus Tree, Channels, Atomics, HTTP).
 
 ---
 
-## License
+## ⚖️ License
 
-PolyForm Noncommercial License 1.0.0. Copyright (c) 2026 Fyew999 (Nova Systems).
-See [LICENSE](LICENSE) for details.
+Nova Playground is released under the **PolyForm Noncommercial License 1.0.0**. Copyright (c) 2026 Fyew999 (Nova Systems).
